@@ -51,5 +51,5 @@ Distributed under the MIT License.
 ## Contact
 Kartik Shah - kartik26op@gmail.com
 
-Project Link: (https://touch-gold.vercel.app/)
+Project Link: https://touch-gold.vercel.app/
 ```
