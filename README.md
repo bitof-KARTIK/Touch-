@@ -1,11 +1,7 @@
-
-Here is the `README.md` file with the details you provided:
-
-```markdown
 # Touch
 
 ## Introduction
-Touch is a Zoom meeting clone that allows users to conduct video call meetings seamlessly. This application is designed to provide a smooth and intuitive experience for hosting and joining meetings.
+Touch is a video conferencing and meeting webapp that allows users to conduct video call meetings seamlessly. This application is designed to provide a smooth and intuitive experience for hosting and joining meetings.
 
 ## Features
 - **Create a New Meeting:** Users can initiate a new meeting instantly.
@@ -25,11 +21,11 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/bitof-KARTIK/Touch.git
+   git clone https://github.com/bitof-KARTIK/Touch-.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Touch
+   cd Touch-
    ```
 3. **Install dependencies:**
    ```bash
@@ -50,12 +46,10 @@ Contributions are what make the open-source community such an amazing place to b
 5. Open a Pull Request
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License.
 
 ## Contact
 Kartik Shah - kartik26op@gmail.com
 
-Project Link: [https://github.com/bitof-KARTIK/Touch](https://github.com/bitof-KARTIK/Touch)
+Project Link: (https://touch-gold.vercel.app/)
 ```
-
-Feel free to copy this into your `README.md` file and make any additional adjustments if necessary.
